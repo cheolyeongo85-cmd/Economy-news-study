@@ -1,19 +1,78 @@
 {
- "updated": "2026-11-21T11:54:54.622000+00:00",
+ "updated": "2026-11-21T22:29:34.310589+00:00",
  "items": [
   {
-   "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-   "summary": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
-   "link": "https://www.nytimes.com/2026/11/21/business/anthropics-debut-shows-the-disconnect-between-wall-street-and-silicon-valley.html",
-   "source": "NYT Business",
+   "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+   "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+   "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+   "source": "MarketWatch",
    "tier": "주요언론",
-   "date": "2026-11-21T10:03:44+00:00",
+   "date": "2026-11-21T20:15:00+00:00",
    "id": 0,
    "related": [
-    40,
-    4,
-    5,
-    36
+    1,
+    29
+   ]
+  },
+  {
+   "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+   "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-21T19:45:00+00:00",
+   "id": 1,
+   "related": [
+    3,
+    0
+   ]
+  },
+  {
+   "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+   "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+   "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-21T19:45:00+00:00",
+   "id": 2,
+   "related": [
+    6
+   ]
+  },
+  {
+   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+   "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+   "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-21T19:23:00+00:00",
+   "id": 3,
+   "related": [
+    1
+   ]
+  },
+  {
+   "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+   "summary": "This one, simple, low-pain tax solves all the problems.",
+   "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-21T18:20:00+00:00",
+   "id": 4,
+   "related": [
+    8
+   ]
+  },
+  {
+   "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+   "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
+   "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-21T18:19:00+00:00",
+   "id": 5,
+   "related": [
+    35
    ]
   },
   {
@@ -22,9 +81,123 @@
    "link": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
    "source": "NYT Business",
    "tier": "주요언론",
-   "date": "2026-11-21T10:01:53+00:00",
-   "id": 1,
+   "date": "2026-11-21T17:59:58+00:00",
+   "id": 6,
    "related": [
+    2,
+    39
+   ]
+  },
+  {
+   "title": "What It’s Like to Retire in Thailand",
+   "summary": "It’s hot, humid and costs a bit more than we anticipated. But we love the life we’ve built here.",
+   "link": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-21T17:00:00+00:00",
+   "id": 7,
+   "related": []
+  },
+  {
+   "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+   "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-21T16:50:00+00:00",
+   "id": 8,
+   "related": [
+    4
+   ]
+  },
+  {
+   "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+   "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-21T16:50:00+00:00",
+   "id": 9,
+   "related": [
+    50
+   ]
+  },
+  {
+   "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+   "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
+   "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-21T15:35:00+00:00",
+   "id": 10,
+   "related": []
+  },
+  {
+   "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
+   "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
+   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-21T15:15:00+00:00",
+   "id": 11,
+   "related": [
+    26,
+    18,
+    20
+   ]
+  },
+  {
+   "title": "How the U.S. Economy Is Tied to A.I.",
+   "summary": "Artificial intelligence has become a huge piece of the U.S. economy. Ben Casselman, the chief economics correspondent for The New York Times, explains why that is and how it might be risky.",
+   "link": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
+   "source": "NYT Business",
+   "tier": "주요언론",
+   "date": "2026-11-21T15:06:22+00:00",
+   "id": 12,
+   "related": [
+    38,
+    29,
+    14
+   ]
+  },
+  {
+   "title": "Tech outages are fueling a new doomsday economy",
+   "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+   "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+   "source": "CNBC Economy",
+   "tier": "주요언론",
+   "date": "2026-11-21T15:04:56+00:00",
+   "id": 13,
+   "related": [
+    35,
+    46
+   ]
+  },
+  {
+   "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
+   "summary": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
+   "link": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+   "source": "NYT Business",
+   "tier": "주요언론",
+   "date": "2026-11-21T14:04:25+00:00",
+   "id": 14,
+   "related": [
+    38,
+    12
+   ]
+  },
+  {
+   "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+   "summary": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
+   "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+   "source": "NYT Business",
+   "tier": "주요언론",
+   "date": "2026-11-21T10:03:45+00:00",
+   "id": 15,
+   "related": [
+    17,
+    18,
+    38,
     37
    ]
   },
@@ -35,23 +208,9 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-21T06:00:02+00:00",
-   "id": 2,
+   "id": 16,
    "related": [
-    52,
-    50
-   ]
-  },
-  {
-   "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-   "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
-   "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-21T03:20:00+00:00",
-   "id": 3,
-   "related": [
-    55,
-    26
+    51
    ]
   },
   {
@@ -61,12 +220,12 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-21T02:16:00+00:00",
-   "id": 4,
+   "id": 17,
    "related": [
-    19,
-    0,
-    43,
-    33
+    15,
+    44,
+    36,
+    39
    ]
   },
   {
@@ -76,12 +235,12 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-20T23:36:00+00:00",
-   "id": 5,
+   "id": 18,
    "related": [
-    8,
-    0,
-    40,
-    35
+    15,
+    37,
+    49,
+    19
    ]
   },
   {
@@ -91,49 +250,9 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T22:47:32+00:00",
-   "id": 6,
+   "id": 19,
    "related": [
-    5
-   ]
-  },
-  {
-   "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-   "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
-   "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-20T22:46:00+00:00",
-   "id": 7,
-   "related": [
-    0
-   ]
-  },
-  {
-   "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-   "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
-   "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-20T22:44:00+00:00",
-   "id": 8,
-   "related": [
-    5,
-    12
-   ]
-  },
-  {
-   "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-   "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
-   "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-20T22:44:00+00:00",
-   "id": 9,
-   "related": [
-    31,
-    15,
-    5,
-    37
+    18
    ]
   },
   {
@@ -143,11 +262,10 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T22:11:57+00:00",
-   "id": 10,
+   "id": 20,
    "related": [
-    12,
-    40,
-    37
+    11,
+    39
    ]
   },
   {
@@ -157,39 +275,8 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-20T22:01:00+00:00",
-   "id": 11,
-   "related": [
-    54
-   ]
-  },
-  {
-   "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
-   "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-20T21:58:00+00:00",
-   "id": 12,
-   "related": [
-    37,
-    29,
-    10,
-    19
-   ]
-  },
-  {
-   "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
-   "summary": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
-   "link": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
-   "source": "NYT Business",
-   "tier": "주요언론",
-   "date": "2026-11-20T21:50:44+00:00",
-   "id": 13,
-   "related": [
-    36,
-    34,
-    40
-   ]
+   "id": 21,
+   "related": []
   },
   {
    "title": "Nasdaq Turns Red For The Year",
@@ -198,81 +285,12 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-20T21:50:00+00:00",
-   "id": 14,
-   "related": [
-    33,
-    16,
-    37,
-    26
-   ]
-  },
-  {
-   "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-   "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
-   "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-20T21:39:00+00:00",
-   "id": 15,
-   "related": [
-    9,
-    4,
-    40,
-    29
-   ]
-  },
-  {
-   "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-   "summary": "A looming oversupply problem could weigh on the stock over the next year",
-   "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-20T21:39:00+00:00",
-   "id": 16,
+   "id": 22,
    "related": [
     36,
+    39,
     29,
-    14,
-    43
-   ]
-  },
-  {
-   "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-   "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
-   "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-20T21:36:00+00:00",
-   "id": 17,
-   "related": [
-    9
-   ]
-  },
-  {
-   "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
-   "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
-   "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-20T21:34:00+00:00",
-   "id": 18,
-   "related": [
-    41
-   ]
-  },
-  {
-   "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
-   "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
-   "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-20T21:25:00+00:00",
-   "id": 19,
-   "related": [
-    4,
-    37,
-    43,
-    16
+    37
    ]
   },
   {
@@ -282,12 +300,10 @@
    "source": "Federal Reserve",
    "tier": "공식기관",
    "date": "2026-11-20T21:15:00+00:00",
-   "id": 20,
+   "id": 23,
    "related": [
-    49,
-    28,
-    53,
-    54
+    50,
+    31
    ]
   },
   {
@@ -297,9 +313,9 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-20T21:10:48+00:00",
-   "id": 21,
+   "id": 24,
    "related": [
-    22
+    25
    ]
   },
   {
@@ -309,9 +325,9 @@
    "source": "CNBC Economy",
    "tier": "주요언론",
    "date": "2026-11-20T21:07:08+00:00",
-   "id": 22,
+   "id": 25,
    "related": [
-    21
+    24
    ]
   },
   {
@@ -321,9 +337,10 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-20T19:59:03+00:00",
-   "id": 23,
+   "id": 26,
    "related": [
-    25
+    28,
+    11
    ]
   },
   {
@@ -333,11 +350,11 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T19:39:27+00:00",
-   "id": 24,
+   "id": 27,
    "related": [
-    46,
-    5,
-    45
+    47,
+    18,
+    46
    ]
   },
   {
@@ -347,9 +364,9 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T19:25:32+00:00",
-   "id": 25,
+   "id": 28,
    "related": [
-    23
+    26
    ]
   },
   {
@@ -359,12 +376,12 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T17:11:42+00:00",
-   "id": 26,
+   "id": 29,
    "related": [
-    48,
-    14,
-    55,
-    19
+    49,
+    22,
+    12,
+    0
    ]
   },
   {
@@ -374,7 +391,7 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-20T16:59:00+00:00",
-   "id": 27,
+   "id": 30,
    "related": []
   },
   {
@@ -384,12 +401,10 @@
    "source": "Federal Reserve",
    "tier": "공식기관",
    "date": "2026-11-20T15:00:00+00:00",
-   "id": 28,
+   "id": 31,
    "related": [
-    49,
-    20,
-    53,
-    54
+    50,
+    23
    ]
   },
   {
@@ -399,12 +414,12 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-20T14:15:29+00:00",
-   "id": 29,
+   "id": 32,
    "related": [
-    16,
-    37,
-    12,
-    43
+    39,
+    44,
+    17,
+    52
    ]
   },
   {
@@ -414,7 +429,7 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T14:00:05+00:00",
-   "id": 30,
+   "id": 33,
    "related": []
   },
   {
@@ -424,11 +439,8 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-20T13:29:50+00:00",
-   "id": 31,
-   "related": [
-    9,
-    52
-   ]
+   "id": 34,
+   "related": []
   },
   {
    "title": "Data Centers Are the Growth Engine of America’s Power Grid",
@@ -437,9 +449,10 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-20T11:25:00+00:00",
-   "id": 32,
+   "id": 35,
    "related": [
-    57
+    13,
+    5
    ]
   },
   {
@@ -449,27 +462,12 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-20T11:16:00+00:00",
-   "id": 33,
+   "id": 36,
    "related": [
-    14,
-    4,
-    35,
-    0
-   ]
-  },
-  {
-   "title": "How the U.S. Economy Is Tied to A.I.",
-   "summary": "Artificial intelligence has become a huge piece of the U.S. economy. Ben Casselman, the chief economics correspondent for The New York Times, explains why that is and how it might be risky.",
-   "link": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
-   "source": "NYT Business",
-   "tier": "주요언론",
-   "date": "2026-11-20T11:01:37+00:00",
-   "id": 34,
-   "related": [
-    36,
-    40,
-    26,
-    13
+    22,
+    17,
+    37,
+    15
    ]
   },
   {
@@ -479,12 +477,12 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-20T10:59:00+00:00",
-   "id": 35,
+   "id": 37,
    "related": [
-    5,
-    14,
-    0,
-    33
+    18,
+    22,
+    15,
+    36
    ]
   },
   {
@@ -494,12 +492,11 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-20T10:30:00+00:00",
-   "id": 36,
+   "id": 38,
    "related": [
-    16,
-    40,
-    0,
-    34
+    15,
+    12,
+    14
    ]
   },
   {
@@ -509,12 +506,12 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-20T10:08:25+00:00",
-   "id": 37,
+   "id": 39,
    "related": [
-    19,
-    40,
-    29,
-    14
+    32,
+    22,
+    44,
+    17
    ]
   },
   {
@@ -524,7 +521,7 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T10:00:33+00:00",
-   "id": 38,
+   "id": 40,
    "related": []
   },
   {
@@ -534,24 +531,9 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-20T09:18:00+00:00",
-   "id": 39,
+   "id": 41,
    "related": [
-    47
-   ]
-  },
-  {
-   "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
-   "summary": "Asian equities fell Friday morning as Anthropic’s blockbuster initial public offering failed to staunch the selloff in artificial intelligence stocks.",
-   "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-20T05:40:00+00:00",
-   "id": 40,
-   "related": [
-    0,
-    36,
-    5,
-    37
+    48
    ]
   },
   {
@@ -561,10 +543,8 @@
    "source": "CNBC Economy",
    "tier": "주요언론",
    "date": "2026-11-20T01:49:03+00:00",
-   "id": 41,
-   "related": [
-    18
-   ]
+   "id": 42,
+   "related": []
   },
   {
    "title": "With GTA 6 Release, DoorDash and Other Food Delivery Apps Are Making a Killing",
@@ -573,7 +553,7 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-19T23:19:32+00:00",
-   "id": 42,
+   "id": 43,
    "related": []
   },
   {
@@ -583,12 +563,11 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-19T22:46:06+00:00",
-   "id": 43,
+   "id": 44,
    "related": [
-    19,
-    16,
-    4,
-    40
+    17,
+    39,
+    32
    ]
   },
   {
@@ -598,9 +577,9 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-19T21:56:00+00:00",
-   "id": 44,
+   "id": 45,
    "related": [
-    46
+    47
    ]
   },
   {
@@ -610,11 +589,11 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-19T21:39:12+00:00",
-   "id": 45,
+   "id": 46,
    "related": [
-    46,
-    24,
-    9
+    47,
+    13,
+    27
    ]
   },
   {
@@ -624,11 +603,11 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-19T21:16:52+00:00",
-   "id": 46,
+   "id": 47,
    "related": [
-    44,
-    24,
-    45
+    45,
+    27,
+    46
    ]
   },
   {
@@ -638,11 +617,10 @@
    "source": "CNBC Economy",
    "tier": "주요언론",
    "date": "2026-11-19T20:21:10+00:00",
-   "id": 47,
+   "id": 48,
    "related": [
-    39,
-    56,
-    37
+    41,
+    39
    ]
   },
   {
@@ -652,10 +630,10 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-19T18:19:00+00:00",
-   "id": 48,
+   "id": 49,
    "related": [
-    26,
-    5
+    29,
+    18
    ]
   },
   {
@@ -665,12 +643,11 @@
    "source": "Federal Reserve",
    "tier": "공식기관",
    "date": "2026-11-19T16:00:00+00:00",
-   "id": 49,
+   "id": 50,
    "related": [
-    20,
-    28,
-    53,
-    54
+    23,
+    31,
+    9
    ]
   },
   {
@@ -680,10 +657,9 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-19T09:02:00+00:00",
-   "id": 50,
+   "id": 51,
    "related": [
-    52,
-    2
+    16
    ]
   },
   {
@@ -693,94 +669,11 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-19T02:00:00+00:00",
-   "id": 51,
-   "related": [
-    5,
-    29,
-    35
-   ]
-  },
-  {
-   "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-   "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
-   "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
-   "source": "CNBC Markets",
-   "tier": "주요언론",
-   "date": "2026-11-18T19:47:05+00:00",
    "id": 52,
    "related": [
-    50,
-    2,
-    31
-   ]
-  },
-  {
-   "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-   "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
-   "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-   "source": "CNBC Markets",
-   "tier": "주요언론",
-   "date": "2026-11-18T19:41:59+00:00",
-   "id": 53,
-   "related": [
-    54,
-    20,
-    56,
-    49
-   ]
-  },
-  {
-   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-   "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-   "source": "Federal Reserve",
-   "tier": "공식기관",
-   "date": "2026-11-18T19:00:00+00:00",
-   "id": 54,
-   "related": [
-    53,
-    20,
-    49,
-    28
-   ]
-  },
-  {
-   "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-   "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
-   "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-   "source": "CNBC Markets",
-   "tier": "주요언론",
-   "date": "2026-11-18T16:33:14+00:00",
-   "id": 55,
-   "related": [
-    3,
-    26
-   ]
-  },
-  {
-   "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-   "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
-   "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-   "source": "CNBC Markets",
-   "tier": "주요언론",
-   "date": "2026-11-18T15:13:39+00:00",
-   "id": 56,
-   "related": [
-    53,
-    4,
-    47
-   ]
-  },
-  {
-   "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
-   "summary": "The rules require data centers in Southeast Asia to seek U.S. approval to buy advanced AI chips, threatening to slow a build-out fueled heavily on Chinese demand.",
-   "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
-   "source": "CNBC Economy",
-   "tier": "주요언론",
-   "date": "2026-11-18T14:09:26+00:00",
-   "id": 57,
-   "related": [
-    32
+    18,
+    32,
+    37
    ]
   }
  ]
