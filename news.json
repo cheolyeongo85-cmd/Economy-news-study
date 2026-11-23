@@ -1,6 +1,345 @@
 {
- "updated": "2026-11-22T22:36:38.483388+00:00",
+ "updated": "2026-11-23T11:43:40.164277+00:00",
  "items": [
+  {
+   "title": "Pouncing on Anthropic Won’t Make You Rich",
+   "summary": "Plus, tech rises from the ashes.",
+   "link": "https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T11:28:00+00:00",
+   "id": 0,
+   "related": [
+    13,
+    7
+   ]
+  },
+  {
+   "title": "Volatility Dents Consumer Mood of Wealthier Americans",
+   "summary": "Some of the best analysis and insight on investing, the wealth-management business and more.",
+   "link": "https://www.wsj.com/finance/investing/volatility-dents-consumer-mood-of-wealthier-americans-2fdc44d6?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T11:25:00+00:00",
+   "id": 1,
+   "related": [
+    5
+   ]
+  },
+  {
+   "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why don’t others feel the same?",
+   "summary": "“My wife stopped working outside the home in 1970.”",
+   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-23T11:15:00+00:00",
+   "id": 2,
+   "related": [
+    12
+   ]
+  },
+  {
+   "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says",
+   "summary": "The Pershing Square Capital Management CEO wrote in a post on X that he thinks financial conditions have already considerably tightened.",
+   "link": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-23T10:57:00+00:00",
+   "id": 3,
+   "related": []
+  },
+  {
+   "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang",
+   "summary": "Shares in Nvidia rose on Monday after a weekend of more developments, including the Trump administration pushing for the reinstatement of Jensen Huang to lead the company.",
+   "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-23T10:56:00+00:00",
+   "id": 4,
+   "related": [
+    8,
+    29,
+    13,
+    39
+   ]
+  },
+  {
+   "title": "Wall Street Set to Bounce Back After Tough Week",
+   "summary": "Early stock market moves pointed to some stability when regular trading resumes in the United States on Monday, though analysts warned of more volatility ahead.",
+   "link": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
+   "source": "NYT Business",
+   "tier": "주요언론",
+   "date": "2026-11-23T10:40:43+00:00",
+   "id": 5,
+   "related": [
+    36,
+    13,
+    22,
+    1
+   ]
+  },
+  {
+   "title": "How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer",
+   "summary": "Plus, how Mark Walter made Magic Johnson a billionaire—and test how much you know about wine with our quiz.",
+   "link": "https://www.wsj.com/articles/how-michigans-abdul-el-sayed-helped-ignite-a-challenge-to-chuck-schumer-0f67e92c?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T10:36:00+00:00",
+   "id": 6,
+   "related": [
+    24,
+    25
+   ]
+  },
+  {
+   "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
+   "summary": "More content, sports and maybe a free tier aim to make streaming a growth engine.",
+   "link": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T10:30:00+00:00",
+   "id": 7,
+   "related": [
+    0
+   ]
+  },
+  {
+   "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
+   "summary": "The Nvidia founder and his wife have control over 870 million Nvidia shares, including through trusts and other entities.",
+   "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T10:17:00+00:00",
+   "id": 8,
+   "related": [
+    4,
+    29,
+    12
+   ]
+  },
+  {
+   "title": "A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?",
+   "summary": "“Retirement is a financial status, not an age.”",
+   "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-23T10:15:00+00:00",
+   "id": 9,
+   "related": [
+    20
+   ]
+  },
+  {
+   "title": "CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics",
+   "summary": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power.",
+   "link": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
+   "source": "NYT Business",
+   "tier": "주요언론",
+   "date": "2026-11-23T10:03:26+00:00",
+   "id": 10,
+   "related": []
+  },
+  {
+   "title": "James Bond films were shot all over the world. Here are 5 properties made famous by 007.",
+   "summary": "As actor Robert Pattinson steps in the role of 007, here are some of the lavish homes where we’ve see James Bond in action.",
+   "link": "https://www.marketwatch.com/story/james-bond-films-were-shot-all-over-the-world-here-are-5-properties-made-famous-by-007-dabafbe6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-23T10:02:00+00:00",
+   "id": 11,
+   "related": [
+    31,
+    18,
+    24
+   ]
+  },
+  {
+   "title": "Google co-founder Sergey Brin and ex-wife Nicole Shanahan list Malibu home for $33.5 million",
+   "summary": "The elegant Malibu estate that Google co-founder Sergey Brin purchased with his ex-wife, Nicole Shanahan, has hit the selling block for $33.5 million—months after it was listed as a rental.",
+   "link": "https://www.marketwatch.com/story/google-co-founder-sergey-brin-and-ex-wife-nicole-shanahan-list-malibu-home-for-33-5-million-0121adcd?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-23T10:01:00+00:00",
+   "id": 12,
+   "related": [
+    8,
+    2
+   ]
+  },
+  {
+   "title": "Stock Market Today: Stock Futures Point to Recovery After Friday’s Bloodbath",
+   "summary": "Anthropic shares rise premarket",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T09:52:53+00:00",
+   "id": 13,
+   "related": [
+    48,
+    15,
+    22,
+    33
+   ]
+  },
+  {
+   "title": "European Tech Stocks Rally as Traders Buy AI Dip",
+   "summary": "Europe’s AI-linked stocks rebounded sharply in early trade as investors returned to the sector after last week’s heavy selloff.",
+   "link": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T09:52:00+00:00",
+   "id": 14,
+   "related": [
+    15,
+    18,
+    50,
+    38
+   ]
+  },
+  {
+   "title": "Stock Futures Rally as Dust Settles After AI-Driven Selloff",
+   "summary": "Stock futures climbed sharply as investors cautiously moved to buy the dip.",
+   "link": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T09:50:00+00:00",
+   "id": 15,
+   "related": [
+    14,
+    13
+   ]
+  },
+  {
+   "title": "Euro, Eurozone Yields Show Limited Reaction to Eurozone PMI Data",
+   "summary": "Eurozone bond yields continued to trade mixed, showing little reaction to the flash November eurozone purchasing managers’ survey.",
+   "link": "https://www.wsj.com/articles/german-bund-yields-rise-french-yields-fall-ahead-of-pmi-data-c4d45e93?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T09:48:00+00:00",
+   "id": 16,
+   "related": [
+    18
+   ]
+  },
+  {
+   "title": "Stocks are serving up a ‘fat pitch’ for investors right now, says Morgan Stanley’s top strategist",
+   "summary": "Morgan Stanley points to trough Nasdaq valuations, implied earnings declines and a capitulation in both sentiment and positioning as reasons to be bullish.",
+   "link": "https://www.marketwatch.com/story/stocks-are-serving-up-a-fat-pitch-for-investors-right-now-as-morgan-stanleys-top-strategist-19abe30a?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-23T09:40:00+00:00",
+   "id": 17,
+   "related": [
+    38,
+    14
+   ]
+  },
+  {
+   "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls",
+   "summary": "Treasury yields and European government bond yields rose, correcting some of last week’s significant declines.",
+   "link": "https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T09:25:00+00:00",
+   "id": 18,
+   "related": [
+    14,
+    16,
+    11,
+    49
+   ]
+  },
+  {
+   "title": "Stock-market slides this steep and fast trigger a rebound 91% of the time over the last decade",
+   "summary": "The big question for traders is whether the S&P 500’s swift fall into a correction is the start of something much worse for the stock market or actually a harbinger of a reversal.",
+   "link": "https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-23T08:37:00+00:00",
+   "id": 19,
+   "related": [
+    13,
+    22
+   ]
+  },
+  {
+   "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+   "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+   "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+   "source": "CNBC Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T06:06:55+00:00",
+   "id": 20,
+   "related": [
+    9
+   ]
+  },
+  {
+   "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
+   "summary": "An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.",
+   "link": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
+   "source": "NYT Business",
+   "tier": "주요언론",
+   "date": "2026-11-23T05:33:32+00:00",
+   "id": 21,
+   "related": []
+  },
+  {
+   "title": "The number of 401(k) millionaires drops amid stock-market swings",
+   "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+   "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-23T05:01:00+00:00",
+   "id": 22,
+   "related": [
+    13,
+    48,
+    19,
+    5
+   ]
+  },
+  {
+   "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+   "summary": "After a turbulent IPO, the startup’s credit rating will affect its capital plans and the future of the AI industry.",
+   "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T03:00:00+00:00",
+   "id": 23,
+   "related": [
+    36,
+    30,
+    48
+   ]
+  },
+  {
+   "title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
+   "summary": "The Midwest investor invited the L.A. sports celebrity to buy a moneymaking insurance company that is now linked to a federal probe.",
+   "link": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T02:00:00+00:00",
+   "id": 24,
+   "related": [
+    6,
+    25,
+    11
+   ]
+  },
+  {
+   "title": "How the WSJ Determined Mark Walter’s Total Borrowing",
+   "summary": "",
+   "link": "https://www.wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-23T01:44:00+00:00",
+   "id": 25,
+   "related": [
+    24,
+    6
+   ]
+  },
   {
    "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
    "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
@@ -8,34 +347,8 @@
    "source": "MarketWatch",
    "tier": "주요언론",
    "date": "2026-11-22T21:51:00+00:00",
-   "id": 0,
-   "related": [
-    42
-   ]
-  },
-  {
-   "title": "Ron Johnson’s Social Security gaffe buried important news",
-   "summary": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
-   "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-22T21:28:00+00:00",
-   "id": 1,
-   "related": [
-    2
-   ]
-  },
-  {
-   "title": "Social Security should be shut down, this Republican senator says",
-   "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
-   "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-22T20:26:00+00:00",
-   "id": 2,
-   "related": [
-    1
-   ]
+   "id": 26,
+   "related": []
   },
   {
    "title": "How the U.S. Economy Is Tied to A.I.",
@@ -44,24 +357,9 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-22T19:58:06+00:00",
-   "id": 3,
+   "id": 27,
    "related": [
-    45,
-    36,
-    26,
-    20
-   ]
-  },
-  {
-   "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-   "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
-   "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-22T19:24:00+00:00",
-   "id": 4,
-   "related": [
-    8
+    35
    ]
   },
   {
@@ -71,25 +369,8 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-22T18:55:05+00:00",
-   "id": 5,
-   "related": [
-    28
-   ]
-  },
-  {
-   "title": "These little-known investments could be among the best bargains in a crash",
-   "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
-   "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-22T18:23:00+00:00",
-   "id": 6,
-   "related": [
-    50,
-    14,
-    10,
-    46
-   ]
+   "id": 28,
+   "related": []
   },
   {
    "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
@@ -98,69 +379,11 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-22T17:55:31+00:00",
-   "id": 7,
+   "id": 29,
    "related": [
-    27
-   ]
-  },
-  {
-   "title": "Private equity has been buying up hospice centers — with striking consequences",
-   "summary": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
-   "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-22T17:22:00+00:00",
-   "id": 8,
-   "related": [
-    4
-   ]
-  },
-  {
-   "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
-   "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-22T17:00:00+00:00",
-   "id": 9,
-   "related": [
-    33,
-    24,
-    27
-   ]
-  },
-  {
-   "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-   "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-22T16:32:00+00:00",
-   "id": 10,
-   "related": [
-    6
-   ]
-  },
-  {
-   "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-   "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-   "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-22T16:18:00+00:00",
-   "id": 11,
-   "related": []
-  },
-  {
-   "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
-   "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
-   "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-22T16:15:00+00:00",
-   "id": 12,
-   "related": [
-    42
+    4,
+    8,
+    39
    ]
   },
   {
@@ -170,25 +393,10 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-22T13:00:02+00:00",
-   "id": 13,
+   "id": 30,
    "related": [
-    24,
-    44
-   ]
-  },
-  {
-   "title": "Has the AI Bubble Already Burst?",
-   "summary": "The AI selloff ravaging the stock market in recent weeks is remarkably like the bursting of the dot-com bubble.",
-   "link": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-22T10:30:00+00:00",
-   "id": 14,
-   "related": [
-    50,
-    46,
-    39,
-    6
+    23,
+    5
    ]
   },
   {
@@ -198,8 +406,10 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-22T10:30:00+00:00",
-   "id": 15,
-   "related": []
+   "id": 31,
+   "related": [
+    11
+   ]
   },
   {
    "title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
@@ -208,7 +418,7 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-22T10:02:21+00:00",
-   "id": 16,
+   "id": 32,
    "related": []
   },
   {
@@ -218,20 +428,10 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-21T17:59:58+00:00",
-   "id": 17,
+   "id": 33,
    "related": [
-    46
+    13
    ]
-  },
-  {
-   "title": "What It’s Like to Retire in Thailand",
-   "summary": "It’s hot, humid and costs a bit more than we anticipated. But we love the life we’ve built here.",
-   "link": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-21T17:00:00+00:00",
-   "id": 18,
-   "related": []
   },
   {
    "title": "Tech outages are fueling a new doomsday economy",
@@ -240,10 +440,8 @@
    "source": "CNBC Economy",
    "tier": "주요언론",
    "date": "2026-11-21T15:04:56+00:00",
-   "id": 19,
-   "related": [
-    42
-   ]
+   "id": 34,
+   "related": []
   },
   {
    "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
@@ -252,10 +450,9 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-21T14:04:26+00:00",
-   "id": 20,
+   "id": 35,
    "related": [
-    45,
-    3
+    27
    ]
   },
   {
@@ -265,12 +462,10 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-21T10:03:45+00:00",
-   "id": 21,
+   "id": 36,
    "related": [
-    23,
-    24,
-    45,
-    44
+    5,
+    23
    ]
   },
   {
@@ -280,38 +475,8 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-21T06:00:02+00:00",
-   "id": 22,
+   "id": 37,
    "related": []
-  },
-  {
-   "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
-   "summary": "The AI giant’s stock slid in its second day of trading, at one point dropping to just 5 cents above its IPO price.",
-   "link": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-21T02:16:00+00:00",
-   "id": 23,
-   "related": [
-    21,
-    50,
-    43,
-    46
-   ]
-  },
-  {
-   "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
-   "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down.",
-   "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-20T23:36:00+00:00",
-   "id": 24,
-   "related": [
-    21,
-    44,
-    25,
-    34
-   ]
   },
   {
    "title": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
@@ -320,24 +485,10 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T22:47:32+00:00",
-   "id": 25,
+   "id": 38,
    "related": [
-    24
-   ]
-  },
-  {
-   "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
-   "summary": "U.S. stocks plunged and an index of mega-cap technology stocks skirted bear-market territory as predictions of a speculative bust in artificial-intelligence stocks appeared to come to fruition.",
-   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-20T22:24:00+00:00",
-   "id": 26,
-   "related": [
-    45,
-    29,
-    21,
-    3
+    14,
+    17
    ]
   },
   {
@@ -347,38 +498,10 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T22:11:57+00:00",
-   "id": 27,
+   "id": 39,
    "related": [
-    9,
-    46,
-    7
-   ]
-  },
-  {
-   "title": "Health Care Roundup: Market Talk",
-   "summary": "Find insight on Sanofi, Insmed, Novartis and more in the latest Market Talks covering he health care sector.",
-   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-37edbe6f?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-20T22:01:00+00:00",
-   "id": 28,
-   "related": [
-    5
-   ]
-  },
-  {
-   "title": "Nasdaq Turns Red For The Year",
-   "summary": "Plus, Anthropic falls back and Treasury yields plunge",
-   "link": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-20T21:50:00+00:00",
-   "id": 29,
-   "related": [
-    43,
-    46,
-    36,
-    44
+    29,
+    4
    ]
   },
   {
@@ -388,9 +511,9 @@
    "source": "Federal Reserve",
    "tier": "공식기관",
    "date": "2026-11-20T21:15:00+00:00",
-   "id": 30,
+   "id": 40,
    "related": [
-    38
+    47
    ]
   },
   {
@@ -400,9 +523,9 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-20T21:10:48+00:00",
-   "id": 31,
+   "id": 41,
    "related": [
-    32
+    42
    ]
   },
   {
@@ -412,9 +535,9 @@
    "source": "CNBC Economy",
    "tier": "주요언론",
    "date": "2026-11-20T21:07:08+00:00",
-   "id": 32,
+   "id": 42,
    "related": [
-    31
+    41
    ]
   },
   {
@@ -424,10 +547,9 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-20T19:59:03+00:00",
-   "id": 33,
+   "id": 43,
    "related": [
-    35,
-    9
+    45
    ]
   },
   {
@@ -437,10 +559,8 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T19:39:27+00:00",
-   "id": 34,
-   "related": [
-    24
-   ]
+   "id": 44,
+   "related": []
   },
   {
    "title": "Inside the Fight Between Native American Tribes and Kalshi",
@@ -449,24 +569,9 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T19:25:32+00:00",
-   "id": 35,
+   "id": 45,
    "related": [
-    33
-   ]
-  },
-  {
-   "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
-   "summary": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more.",
-   "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
-   "source": "NYT Business",
-   "tier": "주요언론",
-   "date": "2026-11-20T17:11:42+00:00",
-   "id": 36,
-   "related": [
-    29,
-    3,
-    46,
-    6
+    43
    ]
   },
   {
@@ -476,7 +581,7 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-20T16:59:00+00:00",
-   "id": 37,
+   "id": 46,
    "related": []
   },
   {
@@ -486,9 +591,9 @@
    "source": "Federal Reserve",
    "tier": "공식기관",
    "date": "2026-11-20T15:00:00+00:00",
-   "id": 38,
+   "id": 47,
    "related": [
-    30
+    40
    ]
   },
   {
@@ -498,11 +603,10 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-20T14:15:29+00:00",
-   "id": 39,
+   "id": 48,
    "related": [
-    46,
-    50,
-    14,
+    13,
+    22,
     23
    ]
   },
@@ -513,8 +617,10 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-20T14:00:05+00:00",
-   "id": 40,
-   "related": []
+   "id": 49,
+   "related": [
+    18
+   ]
   },
   {
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
@@ -523,126 +629,9 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-20T13:29:50+00:00",
-   "id": 41,
-   "related": []
-  },
-  {
-   "title": "Data Centers Are the Growth Engine of America’s Power Grid",
-   "summary": "Some of the best analysis and insight on investing, the wealth-management business and more.",
-   "link": "https://www.wsj.com/finance/investing/data-centers-are-the-growth-engine-of-americas-power-grid-e16e0eaa?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-20T11:25:00+00:00",
-   "id": 42,
-   "related": [
-    19,
-    12,
-    0
-   ]
-  },
-  {
-   "title": "Grabbing Inflation Protection Now Is a No-Brainer",
-   "summary": "Plus, the AI trade keeps deflating despite Anthropic’s strong debut.",
-   "link": "https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-20T11:16:00+00:00",
-   "id": 43,
-   "related": [
-    29,
-    23,
-    44,
-    21
-   ]
-  },
-  {
-   "title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger",
-   "summary": "Plus, Kushner floats a Ukraine peace deal that would upend U.S. policy, and the snack sailors aboard the USS George Washington can’t get enough of.",
-   "link": "https://www.wsj.com/finance/investing/anthropic-lives-up-to-wall-street-hype-but-ai-doubts-linger-d6a4519b?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-20T10:59:00+00:00",
-   "id": 44,
-   "related": [
-    24,
-    29,
-    21,
-    43
-   ]
-  },
-  {
-   "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
-   "summary": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift.",
-   "link": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-20T10:30:00+00:00",
-   "id": 45,
-   "related": [
-    26,
-    21,
-    3,
-    20
-   ]
-  },
-  {
-   "title": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
-   "summary": "Nasdaq tumbles 5.3%; Claude maker gives up most of its day-one gains after failing to soothe AI jitters",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-20T10:08:25+00:00",
-   "id": 46,
-   "related": [
-    39,
-    29,
-    50,
-    14
-   ]
-  },
-  {
-   "title": "From Gig Workers to Tycoons, China Is Reaching Into Every Pocket",
-   "summary": "China’s economy is sluggish, and its population is aging. Its people are feeling the sting of new taxes.",
-   "link": "https://www.nytimes.com/2026/11/20/business/china-economy-pensions.html",
-   "source": "NYT Business",
-   "tier": "주요언론",
-   "date": "2026-11-20T10:00:33+00:00",
-   "id": 47,
-   "related": []
-  },
-  {
-   "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License",
-   "summary": "OakNorth looks across the Atlantic to lend more to growing companies.",
-   "link": "https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-20T09:18:00+00:00",
-   "id": 48,
-   "related": []
-  },
-  {
-   "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-   "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
-   "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-   "source": "CNBC Economy",
-   "tier": "주요언론",
-   "date": "2026-11-20T01:49:03+00:00",
-   "id": 49,
-   "related": []
-  },
-  {
-   "title": "How Much Anthropic Are You About to Own?",
-   "summary": "See how much of the stock you may own through common index funds, like those found in retirement accounts.",
-   "link": "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html",
-   "source": "NYT Business",
-   "tier": "주요언론",
-   "date": "2026-11-19T22:46:06+00:00",
    "id": 50,
    "related": [
-    14,
-    23,
-    46,
-    39
+    14
    ]
   }
  ]
