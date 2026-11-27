@@ -1,108 +1,351 @@
 {
- "updated": "2026-11-27T11:44:08.178427+00:00",
+ "updated": "2026-11-27T22:47:28.288030+00:00",
  "items": [
   {
-   "title": "Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
-   "summary": "U.S. markets will reopen for a shorter session today, with all three major indexes standing to extend gains this week.",
+   "title": "How to Live Calmly, Despite Stock Market Whiplash",
+   "summary": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
+   "link": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
+   "source": "NYT Business",
+   "tier": "주요언론",
+   "date": "2026-11-27T22:16:28+00:00",
+   "id": 0,
+   "related": [
+    42,
+    5,
+    27,
+    23
+   ]
+  },
+  {
+   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+   "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
+   "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+   "source": "CNBC Economy",
+   "tier": "주요언론",
+   "date": "2026-11-27T21:45:41+00:00",
+   "id": 1,
+   "related": [
+    28
+   ]
+  },
+  {
+   "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
+   "summary": "The Nasdaq composite finished its best week since April, while the Dow and S&P 500 also ended the week strong.",
    "link": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
    "source": "WSJ Markets",
    "tier": "주요언론",
-   "date": "2026-11-27T11:35:00+00:00",
-   "id": 0,
-   "related": [
-    1,
-    54,
-    21,
-    14
-   ]
-  },
-  {
-   "title": "Stocks Set to Rally at End of a Week of Wild Swings",
-   "summary": "Volatility has buffeted investors in an eventful but holiday-shortened series of trading sessions.",
-   "link": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
-   "source": "NYT Business",
-   "tier": "주요언론",
-   "date": "2026-11-27T11:32:59+00:00",
-   "id": 1,
-   "related": [
-    0,
-    15,
-    54,
-    14
-   ]
-  },
-  {
-   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-   "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-27T11:15:00+00:00",
+   "date": "2026-11-27T21:16:00+00:00",
    "id": 2,
    "related": [
-    51,
-    25,
-    7,
-    49
+    10,
+    56,
+    5,
+    22
    ]
   },
   {
-   "title": "Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
-   "summary": "Goldman Sachs traders say one big bout of selling is left for stocks this year by some trend-following trend funds.",
-   "link": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
-   "source": "MarketWatch",
+   "title": "Treasury Yields Gain As U.S. Equities Rally",
+   "summary": "U.S. Treasury yields recovered from their pre-Thanksgiving retreat and moved higher as equities posted Black Friday gains and the U.S. dollar strengthened.",
+   "link": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+   "source": "WSJ Markets",
    "tier": "주요언론",
-   "date": "2026-11-27T10:54:00+00:00",
+   "date": "2026-11-27T21:10:00+00:00",
    "id": 3,
    "related": [
-    14,
-    48,
-    6,
-    16
+    18,
+    49,
+    22,
+    41
    ]
   },
   {
-   "title": "SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
-   "summary": "The German software company is reportedly reducing its workforce by between 9% and 10% to transition to the artificial-intelligence era",
-   "link": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
-   "source": "MarketWatch",
+   "title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
+   "summary": "Precious-metal prices surged as investors returned to the artificial-intelligence trade and global stocks rebounded, boosting risk appetite and easing pressure on assets that had been sold to meet liquidity needs.",
+   "link": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
+   "source": "WSJ Markets",
    "tier": "주요언론",
-   "date": "2026-11-27T10:49:00+00:00",
+   "date": "2026-11-27T20:20:00+00:00",
    "id": 4,
    "related": [
-    51,
-    6,
-    21
+    10,
+    56,
+    33,
+    54
    ]
   },
   {
-   "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
-   "summary": "Strategist Darius Dale’s model portfolios both turned bearish earlier in the fall, with concerns about an overheating economy, too-hot inflation and upward pressure on interest rates. At some point, the market will start to discount an easing cycle and better conditions for risk-on, but not yet.",
-   "link": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
+   "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+   "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+   "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "tier": "주요언론",
-   "date": "2026-11-27T10:37:00+00:00",
+   "date": "2026-11-27T20:16:00+00:00",
    "id": 5,
    "related": [
-    46,
-    60,
-    42,
+    27,
+    54,
+    10,
+    0
+   ]
+  },
+  {
+   "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+   "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+   "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-27T19:55:00+00:00",
+   "id": 6,
+   "related": [
+    30,
     31
    ]
   },
   {
-   "title": "The AI stock crash is mostly over, JPMorgan says — but a worse phase could be coming in 2027",
-   "summary": "The crash in artificial-intelligence stocks has just about run its course, but a worse phase could be in store for next year, say JPMorgan’s European quant team.",
-   "link": "https://www.marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd?mod=mw_rss_topstories",
+   "title": "The warnings behind this week’s stock-market rally",
+   "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+   "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "tier": "주요언론",
-   "date": "2026-11-27T10:32:00+00:00",
-   "id": 6,
+   "date": "2026-11-27T18:40:00+00:00",
+   "id": 7,
    "related": [
-    21,
-    4,
+    34,
+    10,
+    5,
+    0
+   ]
+  },
+  {
+   "title": "Auto & Transport Roundup: Market Talk",
+   "summary": "Gain insight on Gulf airlines, Canadian autoworkers and more in the latest Market Talks covering the auto and transport sector.",
+   "link": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-7ba86b3a?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-27T18:22:00+00:00",
+   "id": 8,
+   "related": [
+    9,
+    19
+   ]
+  },
+  {
+   "title": "Energy & Utilities Roundup: Market Talk",
+   "summary": "Find insight on oil futures, Serica Energy and more in the latest Market Talks covering energy and utilities.",
+   "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-6ec085c9?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-27T18:15:00+00:00",
+   "id": 9,
+   "related": [
+    8,
     19,
-    51
+    27
+   ]
+  },
+  {
+   "title": "Stocks Rally at End of a Week of Wild Swings",
+   "summary": "Volatility has buffeted investors in an eventful but holiday-shortened series of trading sessions.",
+   "link": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
+   "source": "NYT Business",
+   "tier": "주요언론",
+   "date": "2026-11-27T18:13:54+00:00",
+   "id": 10,
+   "related": [
+    5,
+    2,
+    4,
+    56
+   ]
+  },
+  {
+   "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+   "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+   "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-27T17:31:00+00:00",
+   "id": 11,
+   "related": [
+    3
+   ]
+  },
+  {
+   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+   "summary": "Watch WSJ’s Hannah Miao explore one of China’s biggest resale megastores to understand what’s behind the country’s shifting consumer habits.",
+   "link": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-27T17:12:00+00:00",
+   "id": 12,
+   "related": [
+    32
+   ]
+  },
+  {
+   "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+   "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+   "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-27T17:04:00+00:00",
+   "id": 13,
+   "related": []
+  },
+  {
+   "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+   "summary": "“Retirement is a financial status, not an age.”",
+   "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-27T16:00:00+00:00",
+   "id": 14,
+   "related": []
+  },
+  {
+   "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+   "summary": "“My wife stopped working outside the home in 1970.”",
+   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-27T15:45:00+00:00",
+   "id": 15,
+   "related": []
+  },
+  {
+   "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+   "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+   "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-27T15:30:00+00:00",
+   "id": 16,
+   "related": []
+  },
+  {
+   "title": "Private-Equity Firms Have a Surprising New Source for Debt: the Nordic Bond Market",
+   "summary": "Fast closings and minimal paperwork make Scandinavian financing an unexpectedly attractive alternative to the U.S.",
+   "link": "https://www.wsj.com/finance/investing/private-equity-firms-have-a-surprising-new-source-for-debt-the-nordic-bond-market-24163a71?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-27T15:30:00+00:00",
+   "id": 17,
+   "related": [
+    34
+   ]
+  },
+  {
+   "title": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
+   "summary": "A growing part of a brand’s Black Friday and Cyber Monday marketing strategy rests on paying top dollar for social media influencers to post videos.",
+   "link": "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html",
+   "source": "NYT Business",
+   "tier": "주요언론",
+   "date": "2026-11-27T15:29:05+00:00",
+   "id": 18,
+   "related": [
+    3
+   ]
+  },
+  {
+   "title": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
+   "summary": "Fatih Birol, head of the International Energy Agency, said that market forces, data centers and energy security are driving the clean transition anyway.",
+   "link": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html",
+   "source": "NYT Business",
+   "tier": "주요언론",
+   "date": "2026-11-27T15:18:58+00:00",
+   "id": 19,
+   "related": [
+    9,
+    8,
+    41
+   ]
+  },
+  {
+   "title": "My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
+   "summary": "‘I was stunned! I’ve lost my fair share, and won my fair share, and truly believe it all evens out over time.’",
+   "link": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-27T15:04:00+00:00",
+   "id": 20,
+   "related": []
+  },
+  {
+   "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+   "summary": "For frontier model lab developers, the increased consumption of AI tokens (the means by which they get paid for their compute) is a positive. However, they don’t seem to be generating revenues from it at the same rate.",
+   "link": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "tier": "주요언론",
+   "date": "2026-11-27T15:01:00+00:00",
+   "id": 21,
+   "related": [
+    33,
+    54
+   ]
+  },
+  {
+   "title": "Stock Futures Jump as AI Trade Set for Rebound",
+   "summary": "Nasdaq futures were 2% higher, while contracts tied to the S&P 500 and the Dow Jones Industrial Average also rose ahead of a shortened trading session Friday.",
+   "link": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-27T13:46:00+00:00",
+   "id": 22,
+   "related": [
+    33,
+    57,
+    10,
+    3
+   ]
+  },
+  {
+   "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+   "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+   "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "source": "CNBC Markets",
+   "tier": "주요언론",
+   "date": "2026-11-27T13:29:43+00:00",
+   "id": 23,
+   "related": [
+    5,
+    45,
+    0,
+    42
+   ]
+  },
+  {
+   "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+   "summary": "The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+   "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+   "source": "CNBC Markets",
+   "tier": "주요언론",
+   "date": "2026-11-27T13:21:56+00:00",
+   "id": 24,
+   "related": [
+    29,
+    42
+   ]
+  },
+  {
+   "title": "Swiss Bourse to Launch IPO Academy in Bid to Encourage European Listings",
+   "summary": "Exchange operator SIX plans to launch an incubator for hot European companies to raise money on the continent instead of crossing the Atlantic.",
+   "link": "https://www.wsj.com/finance/swiss-bourse-to-launch-ipo-academy-in-bid-to-encourage-european-listings-d98da166?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-27T13:03:00+00:00",
+   "id": 25,
+   "related": []
+  },
+  {
+   "title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
+   "summary": "The multiday outage has left customers struggling to reach the insurer during one of the year’s busiest travel weeks.",
+   "link": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?mod=rss_markets_main",
+   "source": "WSJ Markets",
+   "tier": "주요언론",
+   "date": "2026-11-27T12:48:00+00:00",
+   "id": 26,
+   "related": [
+    47
    ]
   },
   {
@@ -112,54 +355,12 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-27T10:30:00+00:00",
-   "id": 7,
+   "id": 27,
    "related": [
-    51,
-    36,
-    22,
-    25
-   ]
-  },
-  {
-   "title": "Dubai’s Benchmark Stock Index Erases Wartime Losses as Banks, Property Shares Rise",
-   "summary": "The index surpassed its closing level on Feb. 27, the last trading session before the war began. It has has gained nearly 14% so far this month.",
-   "link": "https://www.wsj.com/finance/stocks/dubais-benchmark-stock-index-erases-wartime-losses-as-banks-property-shares-rise-8b5a7a52?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-27T10:16:00+00:00",
-   "id": 8,
-   "related": [
-    16,
-    22,
-    21,
-    14
-   ]
-  },
-  {
-   "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my children through the same ordeal?",
-   "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for clearing out your house.",
-   "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-27T10:15:00+00:00",
-   "id": 9,
-   "related": [
-    22
-   ]
-  },
-  {
-   "title": "How to Live Calmly, Despite Stock Market Whiplash",
-   "summary": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
-   "link": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
-   "source": "NYT Business",
-   "tier": "주요언론",
-   "date": "2026-11-27T10:02:53+00:00",
-   "id": 10,
-   "related": [
-    36,
+    54,
     42,
-    7,
-    53
+    5,
+    0
    ]
   },
   {
@@ -169,10 +370,9 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-27T10:02:41+00:00",
-   "id": 11,
+   "id": 28,
    "related": [
-    49,
-    14
+    1
    ]
   },
   {
@@ -182,62 +382,9 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-27T10:02:08+00:00",
-   "id": 12,
-   "related": []
-  },
-  {
-   "title": "Hollywood Hills home of the late Presley Gerber listed for $3.6 million, 2 months after his death",
-   "summary": "Presley Gerber’s Hollywood Hills home has hit the market for $3.59 million, less than two months after the model’s death at age 27.",
-   "link": "https://www.marketwatch.com/story/hollywood-hills-home-of-the-late-presley-gerber-listed-for-3-6-million-2-months-after-his-death-92497183?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-27T09:59:00+00:00",
-   "id": 13,
-   "related": []
-  },
-  {
-   "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
-   "summary": "Treasury yields climbed on Friday as markets reopened for a shortened session following the Thanksgiving holiday.",
-   "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-in-shortened-post-thanksgiving-trade-f0822039?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-27T09:49:00+00:00",
-   "id": 14,
+   "id": 29,
    "related": [
-    16,
-    22,
-    21,
-    18
-   ]
-  },
-  {
-   "title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
-   "summary": "Precious-metal prices surged as investors returned to the AI trade and global stocks rebounded, boosting risk appetite and easing pressure on assets that had been sold to meet liquidity needs.",
-   "link": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-27T09:49:00+00:00",
-   "id": 15,
-   "related": [
-    42,
-    1,
-    54,
-    5
-   ]
-  },
-  {
-   "title": "Stock Futures Jump as AI Trade Set for Rebound",
-   "summary": "Nasdaq futures traded 2.7% higher, while contracts tied to the S&P 500 and the Dow Jones Industrial Average also rose ahead of a shortened trading session Friday.",
-   "link": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-27T09:34:00+00:00",
-   "id": 16,
-   "related": [
-    14,
-    22,
-    8,
-    21
+    24
    ]
   },
   {
@@ -247,25 +394,11 @@
    "source": "CNBC Economy",
    "tier": "주요언론",
    "date": "2026-11-27T08:47:36+00:00",
-   "id": 17,
+   "id": 30,
    "related": [
-    19,
+    31,
     6,
-    20
-   ]
-  },
-  {
-   "title": "Eurozone Bond Yields Track Treasury Yields, Oil Prices Higher",
-   "summary": "Eurozone government bond yields rose on what was shaping up to be a busy day for issuance and data.",
-   "link": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-27T08:23:00+00:00",
-   "id": 18,
-   "related": [
-    34,
-    14,
-    16
+    32
    ]
   },
   {
@@ -275,10 +408,10 @@
    "source": "CNBC Economy",
    "tier": "주요언론",
    "date": "2026-11-27T06:50:38+00:00",
-   "id": 19,
+   "id": 31,
    "related": [
-    27,
-    17,
+    35,
+    30,
     6
    ]
   },
@@ -289,11 +422,12 @@
    "source": "CNBC Economy",
    "tier": "주요언론",
    "date": "2026-11-27T06:09:51+00:00",
-   "id": 20,
+   "id": 32,
    "related": [
-    28,
-    17,
-    34
+    36,
+    30,
+    41,
+    12
    ]
   },
   {
@@ -303,64 +437,12 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-27T05:53:00+00:00",
-   "id": 21,
+   "id": 33,
    "related": [
-    6,
-    51,
-    14,
-    4
-   ]
-  },
-  {
-   "title": "Is the stock market open on Black Friday?",
-   "summary": "Here’s how the day after Thanksgiving will affect trading on Wall Street",
-   "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-27T05:01:00+00:00",
-   "id": 22,
-   "related": [
-    16,
-    7,
-    14,
-    26
-   ]
-  },
-  {
-   "title": "Venture Firm Antler Eyes $100 Billion in Portfolio Value by 2027",
-   "summary": "Venture-capital firm Antler wants to grow the value of its portfolio to roughly $100 billion by 2027 as it continues hunting unicorns.",
-   "link": "https://www.wsj.com/finance/investing/venture-firm-antler-eyes-100-billion-in-portfolio-value-by-2027-cb405206?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-27T04:21:00+00:00",
-   "id": 23,
-   "related": []
-  },
-  {
-   "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-   "summary": "“My wife stopped working outside the home in 1970.”",
-   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-27T01:00:00+00:00",
-   "id": 24,
-   "related": [
-    35
-   ]
-  },
-  {
-   "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-   "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-   "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "tier": "주요언론",
-   "date": "2026-11-27T00:31:00+00:00",
-   "id": 25,
-   "related": [
-    51,
-    2,
-    7,
-    35
+    54,
+    22,
+    4,
+    21
    ]
   },
   {
@@ -370,12 +452,12 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-26T19:55:00+00:00",
-   "id": 26,
+   "id": 34,
    "related": [
+    17,
+    7,
     22,
-    16,
-    10,
-    7
+    0
    ]
   },
   {
@@ -385,11 +467,10 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-26T19:41:35+00:00",
-   "id": 27,
+   "id": 35,
    "related": [
-    19,
-    6,
-    52
+    31,
+    55
    ]
   },
   {
@@ -399,9 +480,9 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-26T17:52:15+00:00",
-   "id": 28,
+   "id": 36,
    "related": [
-    20
+    32
    ]
   },
   {
@@ -411,10 +492,10 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-26T17:03:32+00:00",
-   "id": 29,
+   "id": 37,
    "related": [
-    50,
-    31
+    53,
+    39
    ]
   },
   {
@@ -424,8 +505,10 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-26T16:00:01+00:00",
-   "id": 30,
-   "related": []
+   "id": 38,
+   "related": [
+    5
+   ]
   },
   {
    "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
@@ -434,24 +517,11 @@
    "source": "CNBC Economy",
    "tier": "주요언론",
    "date": "2026-11-26T12:46:55+00:00",
-   "id": 31,
+   "id": 39,
    "related": [
-    29,
-    5,
-    42,
-    40
-   ]
-  },
-  {
-   "title": "Health Care Roundup: Market Talk",
-   "summary": "Find insight on Bayer, Sandoz Group, Hikma Pharmaceuticals and more in the latest Market Talks covering Health Care.",
-   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-b4d17b6e?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-26T12:11:00+00:00",
-   "id": 32,
-   "related": [
-    7
+    37,
+    22,
+    45
    ]
   },
   {
@@ -461,7 +531,7 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-26T07:30:11+00:00",
-   "id": 33,
+   "id": 40,
    "related": []
   },
   {
@@ -471,27 +541,12 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-26T05:36:01+00:00",
-   "id": 34,
+   "id": 41,
    "related": [
-    18,
-    54,
-    37,
-    20
-   ]
-  },
-  {
-   "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
-   "summary": "Nvidia’s sales chief dated a Super Micro executive for years. Now they have married and her former company has been linked to chip smuggling.",
-   "link": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-26T02:00:00+00:00",
-   "id": 35,
-   "related": [
-    36,
-    51,
-    24,
-    25
+    56,
+    3,
+    32,
+    19
    ]
   },
   {
@@ -501,24 +556,12 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-26T01:53:20+00:00",
-   "id": 36,
+   "id": 42,
    "related": [
-    35,
-    7,
-    10,
-    41
-   ]
-  },
-  {
-   "title": "Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
-   "summary": "The hedge fund that nearly went out of business after steep losses this summer said it has worked to learn from its mistakes.",
-   "link": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
-   "source": "WSJ Markets",
-   "tier": "주요언론",
-   "date": "2026-11-26T01:04:00+00:00",
-   "id": 37,
-   "related": [
-    34
+    27,
+    0,
+    46,
+    23
    ]
   },
   {
@@ -528,7 +571,7 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-25T23:24:52+00:00",
-   "id": 38,
+   "id": 43,
    "related": []
   },
   {
@@ -538,7 +581,7 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-25T22:16:50+00:00",
-   "id": 39,
+   "id": 44,
    "related": []
   },
   {
@@ -548,12 +591,11 @@
    "source": "CNBC Economy",
    "tier": "주요언론",
    "date": "2026-11-25T21:56:43+00:00",
-   "id": 40,
+   "id": 45,
    "related": [
-    53,
-    46,
-    60,
-    42
+    23,
+    50,
+    39
    ]
   },
   {
@@ -563,27 +605,12 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-25T21:36:25+00:00",
-   "id": 41,
+   "id": 46,
    "related": [
-    7,
-    36,
-    22,
-    51
-   ]
-  },
-  {
-   "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
-   "summary": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates.",
-   "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
-   "source": "NYT Business",
-   "tier": "주요언론",
-   "date": "2026-11-25T21:32:42+00:00",
-   "id": 42,
-   "related": [
-    46,
-    15,
-    60,
-    10
+    5,
+    27,
+    42,
+    54
    ]
   },
   {
@@ -593,9 +620,9 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-25T21:30:58+00:00",
-   "id": 43,
+   "id": 47,
    "related": [
-    42
+    26
    ]
   },
   {
@@ -605,9 +632,9 @@
    "source": "Federal Reserve",
    "tier": "공식기관",
    "date": "2026-11-25T20:00:00+00:00",
-   "id": 44,
+   "id": 48,
    "related": [
-    45
+    49
    ]
   },
   {
@@ -617,9 +644,10 @@
    "source": "Federal Reserve",
    "tier": "공식기관",
    "date": "2026-11-25T20:00:00+00:00",
-   "id": 45,
+   "id": 49,
    "related": [
-    44
+    48,
+    3
    ]
   },
   {
@@ -629,12 +657,11 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-25T19:13:30+00:00",
-   "id": 46,
+   "id": 50,
    "related": [
-    42,
-    60,
-    5,
-    40
+    45,
+    55,
+    23
    ]
   },
   {
@@ -644,10 +671,8 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-25T18:24:00+00:00",
-   "id": 47,
-   "related": [
-    35
-   ]
+   "id": 51,
+   "related": []
   },
   {
    "title": "Prediction markets push OpenAI IPO expectations later into 2027",
@@ -656,27 +681,9 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-25T17:08:03+00:00",
-   "id": 48,
+   "id": 52,
    "related": [
-    55,
-    57,
-    0,
-    3
-   ]
-  },
-  {
-   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-   "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
-   "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-   "source": "CNBC Economy",
-   "tier": "주요언론",
-   "date": "2026-11-25T16:17:13+00:00",
-   "id": 49,
-   "related": [
-    11,
-    14,
-    2,
-    60
+    57
    ]
   },
   {
@@ -686,9 +693,9 @@
    "source": "NYT Business",
    "tier": "주요언론",
    "date": "2026-11-25T15:58:36+00:00",
-   "id": 50,
+   "id": 53,
    "related": [
-    29
+    37
    ]
   },
   {
@@ -698,12 +705,12 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-25T14:29:00+00:00",
-   "id": 51,
+   "id": 54,
    "related": [
-    7,
-    25,
-    2,
-    4
+    27,
+    5,
+    33,
+    46
    ]
   },
   {
@@ -713,27 +720,10 @@
    "source": "CNBC Economy",
    "tier": "주요언론",
    "date": "2026-11-25T14:18:45+00:00",
-   "id": 52,
+   "id": 55,
    "related": [
-    58,
-    46,
-    60,
-    27
-   ]
-  },
-  {
-   "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-   "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
-   "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-   "source": "CNBC Markets",
-   "tier": "주요언론",
-   "date": "2026-11-25T12:26:41+00:00",
-   "id": 53,
-   "related": [
-    40,
-    10,
-    36,
-    46
+    50,
+    35
    ]
   },
   {
@@ -743,12 +733,12 @@
    "source": "WSJ Markets",
    "tier": "주요언론",
    "date": "2026-11-25T10:30:00+00:00",
-   "id": 54,
+   "id": 56,
    "related": [
-    1,
-    42,
-    34,
-    0
+    10,
+    2,
+    41,
+    4
    ]
   },
   {
@@ -758,75 +748,10 @@
    "source": "CNBC Markets",
    "tier": "주요언론",
    "date": "2026-11-24T23:03:24+00:00",
-   "id": 55,
-   "related": [
-    48,
-    57,
-    16
-   ]
-  },
-  {
-   "title": "DealBook Summit 2026: Help Wanted to Succeed in an A.I. World",
-   "summary": "While young people are facing daunting challenges in the labor market, there are ways to improve the chance of landing a good job.",
-   "link": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html",
-   "source": "NYT Business",
-   "tier": "주요언론",
-   "date": "2026-11-24T23:01:20+00:00",
-   "id": 56,
-   "related": [
-    10
-   ]
-  },
-  {
-   "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-   "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
-   "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-   "source": "CNBC Markets",
-   "tier": "주요언론",
-   "date": "2026-11-24T20:45:57+00:00",
    "id": 57,
    "related": [
-    55,
-    48
-   ]
-  },
-  {
-   "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-   "summary": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
-   "source": "Federal Reserve",
-   "tier": "공식기관",
-   "date": "2026-11-24T19:00:00+00:00",
-   "id": 58,
-   "related": [
-    52
-   ]
-  },
-  {
-   "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-   "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
-   "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-   "source": "CNBC Economy",
-   "tier": "주요언론",
-   "date": "2026-11-24T18:34:43+00:00",
-   "id": 59,
-   "related": [
-    60
-   ]
-  },
-  {
-   "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-   "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
-   "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-   "source": "CNBC Markets",
-   "tier": "주요언론",
-   "date": "2026-11-24T13:33:26+00:00",
-   "id": 60,
-   "related": [
-    46,
-    42,
-    5,
-    40
+    52,
+    22
    ]
   }
  ]
